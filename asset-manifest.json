@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.eb87e85d.css",
-    "main.js": "/static/js/main.134d7bf9.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.js": "/static/js/main.473521bc.js",
     "static/media/Pardeep-Singh-Resume.pdf": "/static/media/Pardeep-Singh-Resume.732f8b4851b57f793df9.pdf",
     "index.html": "/index.html",
     "main.eb87e85d.css.map": "/static/css/main.eb87e85d.css.map",
-    "main.134d7bf9.js.map": "/static/js/main.134d7bf9.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.473521bc.js.map": "/static/js/main.473521bc.js.map"
   },
   "entrypoints": [
     "static/css/main.eb87e85d.css",
-    "static/js/main.134d7bf9.js"
+    "static/js/main.473521bc.js"
   ]
 }
