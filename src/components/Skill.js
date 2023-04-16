@@ -1,17 +1,11 @@
 import React from "react";
 import {
   SiChakraui,
-  SiFirebase,
+  SiMui,
   SiJavascript,
-  SiMaterialui,
-  SiMongodb,
-  SiExpress,
   SiTypescript,
-  SiNodedotjs,
   SiCss3,
   SiRedux,
-  SiLinux,
-  SiNpm,
 } from "react-icons/si";
 import {
   FaGitAlt,
@@ -89,7 +83,7 @@ const Skills = () => {
     {
       name: "Material UI",
       link: "https://mui.com/",
-      icon: <SiMaterialui />,
+      icon: <SiMui />,
       color: "blue.600",
     },
   ];
